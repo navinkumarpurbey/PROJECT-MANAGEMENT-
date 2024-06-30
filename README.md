@@ -2,8 +2,7 @@
 ** E-COMMERCE WEBSITE PROJECT **
 -------------------------------------------------------
 
-This is Team Project about Project Management (E-COMMERCE WEBSITE) where you found the product where you can easily buy grocery items/products.
-The main factor is that how team are works or collabs together with in the limited time periods.
+This is a Team Project about Project Management (E-COMMERCE WEBSITE) where you find the product where you can easily buy grocery items/products. The main factor is how the team works or collaborates within limited time periods.
 
 OVERVIEW:- 
 
